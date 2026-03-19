@@ -1,6 +1,5 @@
 from flask import Flask
 
-
 def create_app():
     """
     Create a Flask application using the app factory pattern.
